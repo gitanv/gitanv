@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analyst Projects:</h2>
 
 - <b>Data Visualization</b>
-  - [Spend Insights Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [British Airways: Customer Insights Dashboard](https://public.tableau.com/shared/2HXMQC5BR?:display_count=n&:origin=viz_share_link)
 
 <h2>Certifications</h2>
 
