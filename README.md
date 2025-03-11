@@ -8,7 +8,7 @@ I'm passionate about data visualization and analytics, turning raw data into act
 
 ## 📊 Data Analyst Projects
 - **Data Visualization**
-  - [British Airways: Customer Insights Dashboard](#) *(Power BI)*
+  - [British Airways: Customer Insights Dashboard](#) *(Tableau)*
 - **Predictive Analytics**
   - Coming soon! 🚀
 
