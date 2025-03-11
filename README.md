@@ -34,7 +34,7 @@ I'm passionate about data visualization and analytics, turning raw data into act
 ---
 
 ## 📄 Resume & Portfolio
-📌 [Download My Resume](#) *(PDF link here)*  
+📌 [Download My Resume](#) *(https://drive.google.com/file/d/1erfghz-hsGmFwM_teNKP0R2oWMaYspJb/view?usp=sharing)*  
 📌 [View My Portfolio](#) *(Notion, GitHub Pages, or website link)*  
 
 ---
