@@ -2,7 +2,7 @@
 
 I'm passionate about data visualization and analytics, turning raw data into actionable insights. I have experience in Power BI, Python, SQL, and business intelligence tools, and I enjoy solving real-world problems through data. 
 
-🔍 **Actively seeking Data Analytics & Data Visualization roles!** 
+🔍 **Actively seeking Data Analytics, Business Analyst & Data Visualization roles!** 
 
 ---
 
