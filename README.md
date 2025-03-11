@@ -43,7 +43,8 @@ I'm passionate about data visualization and analytics, turning raw data into act
 ---
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
+ https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon![image](https://github.com/user-attachments/assets/87e58a34-d38a-431c-96ac-3beaee75e706)
+LinkedIN: (https://www.linkedin.com/in/your-profile/)  
 📩 Email: anvesha.varanasi@gmail.com  
 
 💡 *I’m always open to networking, collaborations, and exciting opportunities!*
