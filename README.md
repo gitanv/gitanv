@@ -20,7 +20,6 @@ I'm passionate about data visualization and analytics, turning raw data into act
 - **Data Analysis:** Pandas, NumPy, Excel
 - **Other Tools:** Git, Jupyter Notebook, Excel, InShot
 - **Data Processing & Engineering:** Feature Engineering, Data Cleaning, Outlier Detection, Hyperparameter Tuning
-(GridSearchCV, RandomizedSearchCV)
 - **Soft Skills:** Collaboration, Problem-Solving, Business Storytelling, Data Interpretation
 
 ---
