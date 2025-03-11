@@ -1,37 +1,52 @@
-<h1>Hi, I'm Anvesha! </h1>
+### Hi, I'm Anvesha! 👋
 
-<h2>👨‍💻 Data Analyst Projects:</h2>
+I'm passionate about **data visualization and analytics**, turning raw data into actionable insights. I have experience in **Power BI, Python, SQL, and business intelligence tools**, and I enjoy solving real-world problems through data. 
 
-- <b>Data Visualization</b>
-  - [British Airways: Customer Insights Dashboard](https://public.tableau.com/shared/2HXMQC5BR?:display_count=n&:origin=viz_share_link)
+🔍 **Actively seeking Data Analytics & Data Visualization roles!** 
 
-<h2>Certifications</h2>
+---
 
-- [PowerBI Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## 📊 Data Analyst Projects
+- **Data Visualization**
+  - [British Airways: Customer Insights Dashboard](#) *(Power BI)*
+- **Predictive Analytics**
+  - Coming soon! 🚀
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+## 💡 Technical Skills
+- **Programming:** Python, SQL, R
+- **Data Visualization:** Power BI, Tableau
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Databases:** MySQL, PostgreSQL
+- **Other Tools:** Git, Jupyter Notebook, Excel, InShot
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🏅 Certifications
+- [Power BI Associate](#)
 
+---
 
-[gmail]: anvesha.varanasi@gmail.com
-[linkedin]: https://www.linkedin.com/in/anvesha-m-17110296/
+## 🎥 Popular YouTube Videos
+- [How to Get into Cybersecurity Starting From Zero](#)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📄 Resume & Portfolio
+📌 [Download My Resume](#) *(PDF link here)*  
+📌 [View My Portfolio](#) *(Notion, GitHub Pages, or website link)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+![Anvesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitanv&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitanv&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
+📩 Email: anvesha.varanasi@gmail.com  
+
+💡 *I’m always open to networking, collaborations, and exciting opportunities!*
