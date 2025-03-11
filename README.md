@@ -15,11 +15,13 @@ I'm passionate about data visualization and analytics, turning raw data into act
 ---
 
 ## 💡 Technical Skills
-- **Programming:** Python, SQL, R
-- **Data Visualization:** Power BI, Tableau
+- **Programming:** Python, SQL, C++
+- **Data Visualization:** Power BI, Tableau, Qliksense
 - **Data Analysis:** Pandas, NumPy, Excel
-- **Databases:** MySQL, PostgreSQL
 - **Other Tools:** Git, Jupyter Notebook, Excel, InShot
+- **Data Processing & Engineering:** Feature Engineering, Data Cleaning, Outlier Detection, Hyperparameter Tuning
+(GridSearchCV, RandomizedSearchCV)
+- **Soft Skills:** Collaboration, Problem-Solving, Business Storytelling, Data Interpretation
 
 ---
 
