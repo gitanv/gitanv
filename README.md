@@ -8,7 +8,7 @@ I'm passionate about data visualization and analytics, turning raw data into act
 
 ## 📊 Data Analyst Projects
 - **Data Visualization**
-  - [British Airways: Customer Insights Dashboard](#) *(Tableau)*
+  - [British Airways: Customer Insights Dashboard](#) *(https://public.tableau.com/app/profile/anvesha.mishra8818/viz/shared/NYNBDBF5P)*
 - **Predictive Analytics**
   - Coming soon! 🚀
 
