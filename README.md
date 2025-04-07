@@ -29,22 +29,15 @@ I'm passionate about data visualization and analytics, turning raw data into act
 
 ---
 
-## 🎥 Popular YouTube Videos
-- [How to Get into Cybersecurity Starting From Zero](#)
-
----
-
 ## 📄 Resume & Portfolio
 📌 [Download My Resume](#) *(https://drive.google.com/file/d/1erfghz-hsGmFwM_teNKP0R2oWMaYspJb/view?usp=sharing)*  
-📌 [View My Portfolio](#) *(Notion, GitHub Pages, or website link)*  
+📌 [View My Portfolio](#) *()*  
 
 
 
 ---
 
 ## 🌐 Let's Connect!
- https://www.iconfinder.com/icons/5296501/linkedin_network_linkedin_logo_icon![image](https://github.com/user-attachments/assets/87e58a34-d38a-431c-96ac-3beaee75e706)
-LinkedIN: (https://www.linkedin.com/in/your-profile/)  
 📩 Email: anvesha.varanasi@gmail.com  
 
 💡 *I’m always open to networking, collaborations, and exciting opportunities!*
